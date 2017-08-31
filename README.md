@@ -1,2 +1,3 @@
 # hello-world
-Test Repository
+
+This is the tutorial repository so I can have an idea what I'm doing
